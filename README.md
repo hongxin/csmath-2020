@@ -1,4 +1,4 @@
-# csmath-2020
+# CSMATH-2020
 
 ## About this course
 This mathematics course is designed for the first year Ph.D. students of computer science and related areas. The course focuses on the methodologies, technologies, mathematics and algorithms currently needed by people. We are trying our best to give novice of this area an introduction of mathematics with intuitive explanation, clear concepts as well as vivid application examples. The course consists of basic statistical learning, non-linear optimization, partial differential equations and applied function analysis.
