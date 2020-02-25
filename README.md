@@ -9,7 +9,7 @@ This mathematics course is designed for the first year Ph.D. students of compute
 本课程的主要教学内容包括多元统计方法初步，非线性优化求解技术，偏微分方程以及应用泛函方法等四个单元。多元统计方法单元，从统计的角度，对计算机科学中如计算机视觉和模式识别等领域中的非确定性建模方法进行考察。非线性优化单元讲述主流非线性优化方法及其相关特性比较。偏微分方程单元，着重于介绍level-set方法，椭圆方程和 Poisson方程的求解理论以及相应应用与实现。应用泛函分析部分，简要阐述泛函基本概念、基于泛函和变分方法的数学建模思想，并以工程的实际问题为例进行案例分析。
 
 
-## Instructor
+## Instructors
 + [Dr. Hongxin Zhang](http://www.cad.zju.edu.cn/home/zhx/), the spring semester, [his weibo](https://weibo.com/kull/)
 + [Dr. Ming Li](http://www.cad.zju.edu.cn/liming), the summer semester 
 + [Dr. Yubo Tao](http://www.cad.zju.edu.cn/home/ybtao/), the summer semester
