@@ -13,3 +13,52 @@ This mathematics course is designed for the first year Ph.D. students of compute
 + [Dr. Hongxin Zhang](http://www.cad.zju.edu.cn/home/zhx/), the spring semester, [his weibo](https://weibo.com/kull/)
 + [Dr. Ming Li](http://www.cad.zju.edu.cn/liming), the summer semester 
 + [Dr. Yubo Tao](http://www.cad.zju.edu.cn/home/ybtao/), the summer semester
+
+## TA
+Yutong Fang, Chuankang Li, Jiaxin Liu, and Binzhi Dong
+
+## Classroom & Time
++ Room 202 / Online, Cao Guang Biao Building (West), Yu-Quan Campus, Zhejiang University
++ Tuesday, 18:30-21:30
+
+## Schedule
+|  No. |   Topic             |     Date     |                  Slides                                   |   Homework              |
+|:----:|:-------------------:|:------------:|:---------------------------------------------------------:|:-----------------------:|
+| ---  |   ---               |  ---         |  The spring semester                                      |   ---                   |
+|  01  |  Introduction       |  2020.02.25  |  [Introduction](pdf/csmath-01-introduction.pdf)           |   [HW01](hw/hw01.md)    |
+|      |                     |              |  [Why data driven](pdf/csmath-01-data-driven.pdf)         |                         |
+|      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                         |
+|      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf) |             |
+
+## Homework and the Course Paper
+Please hand out your 1 course paper and [5 selected homework](hw/README.md) (or exercises) by 2020-06-01. 
+
+All homework and exercises must be implemented in Python and with TensorFlow (optionally) 
+
+## Content
+
+### Courselet on Multivariate Analysis
+The study of learning from data is commercially and scientifically important. This one month short course is designed to give first year Ph.D. students a thorough grounding in the methodologies, technologies, mathematics and algorithms currently needed by people who do research in learning and data mining or who may need to apply learning or data mining techniques to a target problem. The topics of the course draw from classical statistics, from machine learning, from data mining, from Bayesian statistics and from statistical algorithmics.
+
+Students entering the class should have a pre-existing working knowledge of probability, statistics and algorithms, though the class has been designed to allow students with a strong numerate background to catch up and fully participate.
+
+#### Text books
++ [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
++ [Pattern Classification, 2nd ed](http://www.rii.ricoh.com/~stork/DHS.html)
++ [The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Second Edition, 2009.](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+
+#### Reference website
++ [Stanford machine Learning course](http://www.stanford.edu/class/cs229/)
+
+
+### Courselet on Optimization
+Optimization methods, both linear and non-linear ones, are important mathematical techniques for computer science. This one month short course is designed to give first year Ph.D. students a thorough grounding in the methodologies, technologies, mathematics and algorithms currently needed by people who are doing research related to linear and non-linear optimization. The topics of the course draw mainly from linear programming, quadratic programming and nonlinear optimization.
+
+Students entering the class should have a pre-existing working knowledge of fundamental mathematics and algorithms, though the class has been designed to allow students with a strong numerate background to catch up and fully participate.
+
+## Copyright
+2005-2020 Copyright By Dr. Hongxin Zhang AT Zhejiang University
+
+浙江大学 2005-2020 版权所有，如需转载或引用本课程相关内容，请与作者联系。
+
+You can also visit my weibo: https://weibo.com/kull
