@@ -25,8 +25,8 @@ Yutong Fang, Chuankang Li, Jiaxin Liu, and Binzhi Dong
 |  No. |   Topic             |     Date     |                  Slides                                   |   Homework              |
 |:----:|:-------------------:|:------------:|:---------------------------------------------------------:|:-----------------------:|
 | ---  |   ---               |  ---         |  The spring semester                                      |   ---                   |
-|  01  |  Introduction       |  2020.02.25  |  [Introduction](pdf/csmath-01-introduction.pdf)           |   [HW01](hw/hw01.md)    |
-|      |                     |              |  [Why data driven](pdf/csmath-01-data-driven.pdf)         |                         |
+|  01  |  Introduction       |  2020.02.25  |  [Introduction](pdf/csmath-00-introduction.pdf)           |   [HW01](hw/hw01.md)    |
+|      |                     |              |  [Why data driven](pdf/csmath-01-data-driven-1.pdf)       |                         |
 |      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                         |
 |      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf) |             |
 
