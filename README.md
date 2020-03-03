@@ -29,6 +29,7 @@ Yutong Fang, Chuankang Li, Jiaxin Liu, and Binzhi Dong
 |      |                     |              |  [Why data driven](pdf/csmath-01-data-driven-1.pdf)       |                         |
 |      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                         |
 |      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf) |             |
+|  02  |  Component Analysis |  2020.03.03  |  [SVD and X-PCA](pdf/csmath-02-component_analysis.pdf)    |   [HW02](hw/hw02.md)    |
 
 ## Homework and the Course Paper
 Please hand out your 1 course paper and [5 selected homework](hw/README.md) (or exercises) by 2020-06-01. 
