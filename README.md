@@ -31,6 +31,8 @@ Yutong Fang, Chuankang Li, Jiaxin Liu, and Binzhi Dong
 |      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf) |             |
 |  02  |  Component Analysis |  2020.03.03  |  [SVD and X-PCA](pdf/csmath-02-component_analysis.pdf)    |   [HW02](hw/hw02.md)    |
 |  03  |  Clustering         |  2020.03.10  |  [Clustering](pdf/csmath-03-distance_and_similarity.pdf)  |   [HW03](hw/hw03.md)    |
+|  04  |  Graphical Models   |  2020.03.17  |  [Graphical Models](pdf/csmath-04-graphical_models.pdf)   |                         |
+| ---  |   ---               |  ---         |  ---                                                      |   ---                   |
 
 ## Homework and the Course Paper
 Please hand out your 1 course paper and [5 selected homework](hw/README.md) (or exercises) by 2020-06-01. 
