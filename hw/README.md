@@ -14,6 +14,7 @@ All homework and exercises must be implemented in Python and with TensorFlow (op
 + [Homework 05](hw05.md) ⇒ 2D SVM
 
 ## Report instruction
+All homework must be implemented in the [jupyter notebook](https://jupyter.org/install.html).
 Please follow this [instruction](../pdf/jupyternotebook.pdf) to write a corresponding report for each homework.
 
 ## Optional exercises
