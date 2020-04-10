@@ -35,7 +35,7 @@ Yutong Fang, Chuankang Li, Jiaxin Liu, and Binzhi Dong
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
 
 ## Homework and the Course Paper
-Please hand out your 1 course paper and [5 selected homework](hw/README.md) (or exercises) by 2020-06-01. 
+Please hand out your 1 [course paper](coursepaper/README.md) and [5 selected homework](hw/README.md) (or exercises) by 2020-06-01. 
 
 All homework and exercises must be implemented in Python and with TensorFlow (optionally) 
 
