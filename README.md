@@ -33,6 +33,18 @@ Yutong Fang, Chuankang Li, Jiaxin Liu, and Binzhi Dong
 |  03  |  Clustering         |  2020.03.10  |  [Clustering](pdf/csmath-03-distance_and_similarity.pdf)  |   [HW03](hw/hw03.md)    |
 |  04  |  Graphical Models   |  2020.03.17  |  [Graphical Models](pdf/csmath-04-graphical_models.pdf)   |                         |
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
+|      |  Additional Topics  |              |  [Naive Bayes classifier](pdf/ML2007-naive_bayes_classification.pdf)   |            |
+|      |                     |              |  [Support Vector Machines](pdf/ML2007-SVM.pdf)            |                         |
+|      |                     |              |  [Decision tree](pdf/ML2007-decision_tree.pdf)            |                         |
+|      |                     |              |  [Boosting](pdf/ML2007-boosting.pdf)                      |                         |
+| ---  |   ---               |  ---         |  ---                                                      |   ---                   |
+|  05  |  Linear Programming |  2020.03.24  |  [LP-1](pdf/csmath-05-linear_programming.pdf)             |                         |
+|      |                     |              |  [English version](pdf/csmath-05-linear_programming_en.pdf)       |                 |
+|  06  |  Linear Programming |  2020.03.31  |  [LP-2](pdf/csmath-06-linear_programming_and_dual_methods.pdf)    |                 |
+|      |                     |              |  [English version](pdf/csmath-06-linear_programming_and_dual_methods_en.pdf)    |   |
+|  07  |  Non-Linear         |  2020.04.07  |  [NP-1](pdf/csmath-07-nonlinear.pdf)                      |   [HW04](hw/hw04.md)    |
+|  08  |  Non-Linear         |  2020.04.14  |  [NP-2](pdf/csmath-08-nonlinear_and_qp.pdf)               |   [HW05](hw/hw05.md)    |
+
 
 ## Homework and the Course Paper
 Please hand out your 1 [course paper](coursepaper/README.md) and [5 selected homework](hw/README.md) (or exercises) by 2020-06-01. 
